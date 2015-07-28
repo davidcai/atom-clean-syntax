@@ -1,4 +1,4 @@
-# my-chelevra theme
+# atom-clean-syntax dark theme
 
 A short description of your theme.
 
