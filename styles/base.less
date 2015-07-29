@@ -178,6 +178,55 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection,
   color: #967EFB;
 }
 
+.support.type.property-name.css,
+.support.type.property-name.scss {
+  color: rgba(248, 248, 240, 0.53);
+}
+
+.meta.property-value.css,
+.meta.property-value.scss {
+
+  .constant,
+  .unit,
+  .definition {
+    color: #fff;
+  }
+
+  .url {
+    color: #C6F56A;
+  }
+}
+
+.css.unit,
+.scss.unit,
+.css.numeric,
+.scss.numeric {
+  color: #fff;
+}
+
+.less.variable,
+.scss.variable,
+.less .set.variable,
+.scss .set.variable {
+  color: #FFD74A;
+  font-style: italic;
+}
+
+.css.attribute-name.class,
+.css.attribute-name.id {
+  color: #66d9ef;
+}
+
+.scss.entity.function.name {
+  color: #fd971f;
+}
+.scss.meta.at-rule.include {
+  .support.constant,
+  .function {
+    color: #fd971f;
+  }
+}
+
 .brackethighlighter.default,
 .brackethighlighter.unmatched,
 .brackethighlighter.curly,
