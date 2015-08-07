@@ -1,13 +1,13 @@
 {
-  "name": "atom-clean-syntax",
+  "name": "emerald-dream-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "Clean syntax dark theme",
+  "version": "0.0.1",
+  "description": "Emerald dream syntax dark theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/davidcai/atom-clean-syntax",
+  "repository": "https://github.com/davidcai/emerald-dream-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
