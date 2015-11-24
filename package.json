@@ -1,11 +1,12 @@
 {
   "name": "emerald-dream-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
-  "description": "Emerald dream syntax dark theme",
+  "version": "0.1.0",
+  "description": "Emerald dream syntax dark theme. Works best with Atom Material UI.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "material"
   ],
   "repository": "https://github.com/davidcai/emerald-dream-syntax",
   "license": "MIT",
