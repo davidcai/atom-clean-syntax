@@ -13,4 +13,4 @@ The name of this theme is to honor the [Druid class](http://us.battle.net/wow/en
 
 Yes, there is no Fire. That belongs to Pyro Mage.
 
-![](/screenshot.png)
+![](https://davidcai.github.io/blog/img/emerald-dream-syntax-screenshot.png)
