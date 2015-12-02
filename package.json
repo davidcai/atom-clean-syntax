@@ -1,7 +1,7 @@
 {
   "name": "emerald-dream-syntax",
   "theme": "syntax",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Emerald dream syntax dark theme. Works best with Atom Material UI.",
   "keywords": [
     "syntax",
