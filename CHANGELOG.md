@@ -6,4 +6,4 @@
 * Package as an atom theme
 
 ## 0.2.2
-* Less meddling with UI themes
+* Less noise in UI
